@@ -1,5 +1,8 @@
 # Hello, I'm Oliver 👋
 
+<div align="center">
+  Your centered text here.
+</div>
 🏫 Current student at The Calhoun School in NYC<br/>
 🕰️ I have been coding since 2021<br/>
 🧠 I am always learning, so please give me feedback<br/>
