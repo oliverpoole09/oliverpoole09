@@ -1,4 +1,4 @@
-# Hello, I'm Oliver
+# Hello, I'm Oliver 👋
 
 🏫 Current student at The Calhoun School in NYC<br/>
 🕰️ I have been coding since 2021<br/>
