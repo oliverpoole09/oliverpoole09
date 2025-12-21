@@ -13,5 +13,5 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverpoole09&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverpoole09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=oliverpoole09&theme=dark&hide_border=false)<br/>
